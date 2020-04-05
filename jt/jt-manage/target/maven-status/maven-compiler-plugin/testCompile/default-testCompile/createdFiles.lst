@@ -1,0 +1,5 @@
+com\jt\TestRedisShards.class
+com\jt\TestSentinel.class
+com\jt\TestRedis.class
+com\jt\testHash.class
+com\jt\TestJedisCluster.class
