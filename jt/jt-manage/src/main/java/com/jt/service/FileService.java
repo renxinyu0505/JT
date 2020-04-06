@@ -10,6 +10,6 @@ import com.jt.vo.ImageVO;
 public interface FileService {
 
 	ImageVO uploadFile(MultipartFile uploadFile);
-
+///#
 
 }
